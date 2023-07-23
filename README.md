@@ -1,4 +1,4 @@
-# Hi. This is a mental health care platform.
+# Hi. Welcome to toDoctoDoc.
 # Before starting, you need to check your own biosignals.
 # You should know your ECG, EEG by other applications.
 # After then, input your data into the c++ programs.
